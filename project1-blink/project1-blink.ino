@@ -19,5 +19,5 @@ void loop() {
   digitalWrite(led, HIGH);
   delay(delay_ms);
   digitalWrite(led, LOW);
-  delay(delay_ms)
+  delay(delay_ms);
 }
